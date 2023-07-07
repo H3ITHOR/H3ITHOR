@@ -1,4 +1,4 @@
-👋 Hi, I’m @H3ITHOR
+👋 Hi, I’m Heitor Felipe
 👀 I’m want to learn more to improve my programming skils and being useful to a company
 🌱 I’m currently learning JavaScript, Css, Html
 📫 How to reach me: -Whatsapp: (81)98158-2224, -Instagram: @epilefrotieh, -email: heitorfelipe37@gmail.com

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @H3ITHOR
-- 👀 I’m interested in 
+- 👀 I’m want to learn more to improve my programming skils and being useful to a company
 - 🌱 I’m currently learning JavaScript, Css, Html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: -Whatsapp: (81)98158-2224, -Instagram: @epilefrotieh, -email: heitorfelipe37@gmail.com
 
 <!---
 H3ITHOR/H3ITHOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,8 +12,8 @@
 
 ## Abilities:
 
-[![GitHub Web Page](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
-[![Git Web Page](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=fa7000)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=fa7000)](https://git-scm.com/doc)
 [![css](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=468bea)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff7300)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 

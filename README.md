@@ -3,14 +3,14 @@
 ## About me
  Hello, I'm Heitor, I'm a Computer Science student at the Federal University of Pernambuco (UFPE) and I have a great desire to learn new technologies.
 
-## Find me:
+## Find me
 
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/H3ITHOR)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor)](https://www.instagram.com/epilefrotieh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/heitor-barros-679845205/)
 
 
-## Abilities:
+## Abilities
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=fa7000)](https://git-scm.com/doc)
@@ -27,4 +27,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3ITHOR&theme=transparent&bg_color=191838&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+<div align="left">
+  <a href="https://github.com/H3ITHOR">
+  <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=H3ITHOR&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3ITHOR&layout=compact&langs_count=7&theme=holi"/>
+</div>
+  

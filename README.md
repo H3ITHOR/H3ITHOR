@@ -23,7 +23,8 @@
 
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor)](https://docs.python.org/3/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javaScript&logoColor)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=Csharp&logoColor)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=Csharp&logoColor)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor)](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 ## GitHub Stats
 

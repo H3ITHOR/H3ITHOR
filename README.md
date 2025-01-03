@@ -1,7 +1,8 @@
 # H3ITHOR
 
 ## About me
- Hello, I'm Heitor, I'm a Computer Science student at the Federal University of Pernambuco (UFPE) and I have a great desire to learn new technologies.
+Hi, I'm Heitor!
+I'm a Computer Science student in my third semester at the Federal University of Pernambuco (UFPE) and a passionate developer at CITi (Centro Integrado de Tecnologia da Informação). I love exploring new technologies, solving challenging problems, and building impactful projects. My current interests include software development, data science, and creating efficient, user-focused solutions. Feel free to explore my repositories or connect with me! 🚀
 
 ## Find me
 

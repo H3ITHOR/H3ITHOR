@@ -12,7 +12,7 @@ Feel free to explore my repositories or connect with me! 🚀
 
 ## 🧑‍💻 **Find me**  
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/H3ITHOR)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor)](https://www.instagram.com/epilefrotieh/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor)](https://www.instagram.com/heitor_fmb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/heitor-barros-679845205/)
 
 ---

@@ -2,14 +2,11 @@
 # H3ITHOR
 
 
----
-
 ## **Find me**  
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/H3ITHOR)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor)](https://www.instagram.com/heitor_fmb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/heitor-barros-679845205/)
 
----
 
 ## **Tech Stack**
 
@@ -43,12 +40,11 @@
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
----
-
-## **GitHub Stats & Activity**  
 
 ### **Roadmap.sh progress**
 [![roadmap.sh](https://roadmap.sh/card/tall/69737c915c049b27653b72a7?variant=dark)](https://roadmap.sh)
+
+## **GitHub Stats & Activity**  
 
 ### **Profile Summary**
 [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H3ITHOR&theme=github_dark)](https://github.com/H3ITHOR)
@@ -57,4 +53,4 @@
 [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H3ITHOR&theme=github_dark)](https://github.com/H3ITHOR)
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=H3ITHOR&theme=github_dark)](https://github.com/H3ITHOR)
 
----
+
